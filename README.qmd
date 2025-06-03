@@ -2,6 +2,6 @@
 format: gfm
 ---
 
-![](images/paste-1.png)
+![](images/paste-3.png)
 
 See interactive version of sketch on [excalidraw.com](https://excalidraw.com/#room=9527d5d54ced9a17a184,gT7OFTkE2G3y5hYMRxZWUw).
